@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+.venv/
+torch_env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model and data files
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.pkl
+*.ckpt
+
+# Dataset archives
+*.zip
+*.tar
+*.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm project settings
+.vscode/
+.idea/
